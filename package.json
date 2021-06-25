@@ -1,0 +1,29 @@
+{
+  "name": "github-contribution-bot",
+  "version": "1.0.0",
+  "description": "ok",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PumaDev310/github-contribution-bot.git"
+  },
+  "author": "Erik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PumaDev310/github-contribution-bot/issues"
+  },
+  "homepage": "https://github.com/PumaDev310/github-contribution-bot#readme",
+  "dependencies": {
+    "core-util-is": "^1.0.2",
+    "jsonfile": "^6.1.0",
+    "moment": "^2.29.1",
+    "random": "^3.0.6",
+    "simple-git": "^2.40.0",
+    "simplegit": "^1.0.2",
+    "webpack-dev-server": "^3.11.2"
+  },
+  "devDependencies": {}
+}
