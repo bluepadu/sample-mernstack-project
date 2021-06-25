@@ -1,5 +1,5 @@
 {
-  "name": "github-contribution-bot",
+  "name": "sample-mernstack-project",
   "version": "1.0.0",
   "description": "ok",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PumaDev310/github-contribution-bot.git"
+    "url": "git+https://github.com/mercurylovestory/sample-mernstack-project.git"
   },
   "author": "Erik",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/PumaDev310/github-contribution-bot/issues"
+    "url": "https://github.com/mercurylovestory/sample-mernstack-project/issues"
   },
-  "homepage": "https://github.com/PumaDev310/github-contribution-bot#readme",
+  "homepage": "https://github.com/mercurylovestory/sample-mernstack-project#readme",
   "dependencies": {
     "core-util-is": "^1.0.2",
     "jsonfile": "^6.1.0",
