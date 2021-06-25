@@ -1,1 +1,1 @@
-# sample-mernstack-project
+# github-contribution-bot
